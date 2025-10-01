@@ -1,3 +1,5 @@
+'use client';
+
 import Image from "next/image";
 import DataTable from "./components/dataTable";
 
